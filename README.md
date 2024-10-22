@@ -1,1 +1,1 @@
-![display](Images/vnt.png)
+![display](Images/vnt.jpg)
